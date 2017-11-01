@@ -1,0 +1,19 @@
+html,body,canvas {
+
+            margin: 0;
+
+            padding: 0;
+
+        }
+
+canvas {
+
+    display: block;
+
+}
+
+html,body{
+
+        height: 100%;
+
+}
